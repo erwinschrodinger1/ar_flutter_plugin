@@ -1,4 +1,11 @@
 export 'package:ar_flutter_plugin/widgets/ar_view.dart';
+export 'package:ar_flutter_plugin/managers/ar_location_manager.dart';
+export 'package:ar_flutter_plugin/managers/ar_session_manager.dart';
+export 'package:ar_flutter_plugin/managers/ar_object_manager.dart';
+export 'package:ar_flutter_plugin/managers/ar_anchor_manager.dart';
+export 'package:ar_flutter_plugin/datatypes/node_types.dart';
+export 'package:ar_flutter_plugin/models/ar_node.dart';
+export 'package:vector_math/vector_math_64.dart';
 
 import 'dart:async';
 
